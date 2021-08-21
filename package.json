@@ -1,0 +1,18 @@
+{
+  "name": "drag-drop",
+  "version": "1.0.0",
+  "description": "Using Ts to implement drag and drop ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Pranay Yadav",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
